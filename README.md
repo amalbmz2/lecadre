@@ -1,7 +1,7 @@
 ## Clonner le projet
 echo "## Cloner le projet ##";
 
-git clone git@gitlab.com:adn-expertise/lecadre.git
+git clone 
 
 echo "## installer les dependences ##";
 
